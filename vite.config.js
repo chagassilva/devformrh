@@ -4,10 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  preview: {
-    host: '0.0.0.0',
-    port: 5173,
-    allowedHosts: ['rh.chagassilva.com']
-  }
 })
 
