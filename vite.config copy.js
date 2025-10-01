@@ -4,10 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  preview: {
-    host: '0.0.0.0',
-    port: 80,
-    allowedHosts: ['portfolio-devrh.uvine9.easypanel.host']
-  }
 })
 
