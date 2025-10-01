@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { limparCPF, formatarCPF, validarCPF } from "../../utils/cpfUtils";
+import { limparCPF, formatarCPF, validarCPF } from "../../utils/cpfutils.js";
 import { toast, Bounce } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
