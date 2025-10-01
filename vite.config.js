@@ -7,7 +7,7 @@ export default defineConfig({
   preview: {
     host: '0.0.0.0',
     port: 80,
-    allowedHosts: ['portfolio-devrh.uvine9.easypanel.host']
+    allowedHosts: ['rh.chagassilva.com']
   }
 })
 
