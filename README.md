@@ -1,4 +1,4 @@
-# DevUser 🧑‍💻  
+# DevRH 🧑‍💻  
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/seu-usuario/DevUser/releases/tag/v1.0.0)  
 [![Build Status](https://img.shields.io/github/actions/workflow/status/seu-usuario/DevUser/ci.yml?branch=main)](https://github.com/seu-usuario/DevUser/actions)  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 Sobre o DevUser  
+## 🧑‍💻 Sobre o DevRH 
 
 O **DevRH** é uma aplicação web desenvolvida para **cadastro, login e gerenciamento de usuários**, com foco em **experiência simples, moderna e segura**.  
 
