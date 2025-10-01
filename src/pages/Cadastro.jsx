@@ -304,7 +304,7 @@ export default function Cadastro() {
           {/* Foto */}
           <div className="">
             <span>Foto:</span>
-            <div className="flex items-center border  hover:border-blue-500 transition cursor-pointer rounded-[4px] p-3 cursor-pointer">
+            <div className="flex items-center border  hover:border-blue-500 transition rounded-[4px] p-3 cursor-pointer">
               <FileImage className="w-5 h-5 text-gray-500 mr-2" />
               <input
                 type="file"
